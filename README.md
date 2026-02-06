@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chanwoo Lee
 
-🌍 Ph.D. Researcher in Structural & Earthquake Engineering at **KAIST**  
+🌍 Ph.D. Researcher in Structural & Earthquake Engineering  
 🧠 *Thinking engineer* exploring how we can make infrastructure safer through science and technology.
 
 ---
@@ -9,42 +9,27 @@
 
 My research centers on building **Physics-Based Digital Twins** for critical infrastructure, enabling:
 
-- Rapid post-earthquake safety assessment  
-- Real-time structural monitoring  
-- Fragility and resilience evaluation under uncertainty  
+- Structural monitoring through sensing technologies  
+- FE model updating and reduced-order modeling  
+- Quantitative safety performance metrics such as fragility analysis  
 
-I aim to bridge advanced simulation, reduced-order modeling, and sensing technologies for practical impact.
-
----
-
-## 🏗️ Current Ph.D. Topic
-
-**Rapid Post-earthquake Fragility Assessment of Infrastructure  
-Using a Physics-Based Digital Twin**
-
-Key themes include:
-
-- Parametric reduced-order modeling (POD-based ROM)
-- Optimal sensor placement for dynamic identification
-- Model updating for seismic performance evaluation
-- Applications to nuclear containment structures and large-scale systems
+I aim to bridge advanced simulation, efficient modeling, and real-world monitoring for practical impact.
 
 ---
 
 ## 🌱 Future Interests
 
-Looking ahead, I'm especially excited about:
+Looking ahead, I'm especially interested in:
 
-- Real-time decision-support platforms for infrastructure safety  
-- AI-integrated digital twin frameworks  
-- Seismic resilience of nuclear and civil structures  
-- Translating research into **positive societal impact**
+- Timely decision-making frameworks for infrastructure safety  
+- AI-integrated digital twin platforms  
+- Earthquake resilience of civil and military structures  
 
 ---
 
 ## 📌 Keywords
 
-`Structural Dynamics` · `Seismic Engineering` · `Digital Twin` ·  
+`Structural Dynamics` · `Earthquake Engineering` · `Digital Twin` ·  
 `Model Updating` · `Sensor Placement` · `Reduced-Order Modeling`
 
 ---
@@ -52,4 +37,4 @@ Looking ahead, I'm especially excited about:
 ## 🤝 Let's Connect
 
 📫 Email: **cwlee16532@kaist.ac.kr**  
-💡 Always open to collaboration on seismic safety and digital twin research.
+🔗 Google Scholar: https://scholar.google.com/citations?user=HCUM064AAAAJ&hl=ko
