@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Chanwoo Lee
 
-<!--
-**cwlee16532/cwlee16532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Ph.D. Researcher in Structural & Earthquake Engineering at **KAIST**  
+🧠 *Thinking engineer* exploring how we can make infrastructure safer through science and technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Focus
+
+My research centers on building **Physics-Based Digital Twins** for critical infrastructure, enabling:
+
+- Rapid post-earthquake safety assessment  
+- Real-time structural monitoring  
+- Fragility and resilience evaluation under uncertainty  
+
+I aim to bridge advanced simulation, reduced-order modeling, and sensing technologies for practical impact.
+
+---
+
+## 🏗️ Current Ph.D. Topic
+
+**Rapid Post-earthquake Fragility Assessment of Infrastructure  
+Using a Physics-Based Digital Twin**
+
+Key themes include:
+
+- Parametric reduced-order modeling (POD-based ROM)
+- Optimal sensor placement for dynamic identification
+- Model updating for seismic performance evaluation
+- Applications to nuclear containment structures and large-scale systems
+
+---
+
+## 🌱 Future Interests
+
+Looking ahead, I'm especially excited about:
+
+- Real-time decision-support platforms for infrastructure safety  
+- AI-integrated digital twin frameworks  
+- Seismic resilience of nuclear and civil structures  
+- Translating research into **positive societal impact**
+
+---
+
+## 📌 Keywords
+
+`Structural Dynamics` · `Seismic Engineering` · `Digital Twin` ·  
+`Model Updating` · `Sensor Placement` · `Reduced-Order Modeling`
+
+---
+
+## 🤝 Let's Connect
+
+📫 Email: **cwlee16532@kaist.ac.kr**  
+💡 Always open to collaboration on seismic safety and digital twin research.
