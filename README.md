@@ -34,7 +34,7 @@ Looking ahead, I'm especially interested in:
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Contact
 
-📫 Email: **cwlee16532@kaist.ac.kr**  
+📫 Email: cwlee16532@kaist.ac.kr  
 🔗 Google Scholar: https://scholar.google.com/citations?user=HCUM064AAAAJ&hl=ko
