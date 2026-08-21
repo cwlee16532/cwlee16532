@@ -36,5 +36,5 @@ Looking ahead, I'm especially interested in:
 
 ## 🤝 Contact
 
-📫 Email: cwlee16532@kaist.ac.kr  
+📫 Email: 12-10012@kaay.ac.kr
 🔗 Google Scholar: https://scholar.google.com/citations?user=HCUM064AAAAJ&hl=ko
